@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.prog2.maven.prog2.AppTest" time="0.043" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="23"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\SUJAN\eclipse-workspace\prog2\target\test-classes;C:\Users\SUJAN\eclipse-workspace\prog2\target\classes;C:\Users\SUJAN\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="23"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Users\SUJAN\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_23.0.0.v20240919-1706\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\SUJAN\AppData\Local\Temp\surefire3484849822786455072\surefirebooter-20260514002801811_3.jar C:\Users\SUJAN\AppData\Local\Temp\surefire3484849822786455072 2026-05-14T00-28-01_653-jvmRun1 surefire-20260514002801811_1tmp surefire_0-20260514002801811_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\SUJAN\eclipse-workspace\prog2\target\test-classes;C:\Users\SUJAN\eclipse-workspace\prog2\target\classes;C:\Users\SUJAN\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\SUJAN"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-09-17"/>
+    <property name="java.home" value="C:\Users\SUJAN\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_23.0.0.v20240919-1706\jre"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\SUJAN\eclipse-workspace\prog2"/>
+    <property name="style.color" value="always"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\SUJAN\AppData\Local\Temp\surefire3484849822786455072\surefirebooter-20260514002801811_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="23+37"/>
+    <property name="user.name" value="SUJAN"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Temurin-23+37"/>
+    <property name="localRepository" value="C:\Users\SUJAN\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\SUJAN\AppData\Local\Temp\"/>
+    <property name="java.version" value="23"/>
+    <property name="user.dir" value="C:\Users\SUJAN\eclipse-workspace\prog2"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Users\SUJAN\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_23.0.0.v20240919-1706\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/SUJAN/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.10.v20260205-0638/jre/bin/server;C:/Users/SUJAN/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.10.v20260205-0638/jre/bin;C:\Python314\Scripts\;C:\Python314\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files\apache-maven-3.9.12\bin;C:\Program Files\gradle-9.3.1\bin;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;;C:\Program Files\Docker\Docker\resources\bin;C:\Users\SUJAN\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\SUJAN\AppData\Local\Programs\Python\Python313\;C:\Users\SUJAN\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\SUJAN\AppData\Local\Programs\Python\Python311\;C:\Users\SUJAN\AppData\Local\Microsoft\WindowsApps;C:\Users\SUJAN\Desktop\Visual Studio Code.lnk;C:\Users\SUJAN\Desktop\MinGW Installer.lnk;C:\Users\SUJAN\OneDrive\Desktop\modelsim_ase\win32aloem;C:\Users\SUJAN\OneDrive\Desktop\modelsim_ae\win32aloem;C:\Users\SUJAN\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\SUJAN\AppData\Roaming\npm;C:\Users\SUJAN\AppData\Local\Programs\Ollama;A:\Antigravity\bin;C:\Users\SUJAN\OneDrive\Desktop;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vm.version" value="23+37"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="67.0"/>
+  </properties>
+  <testcase name="testApp" classname="com.prog2.maven.prog2.AppTest" time="0.004"/>
+</testsuite>
