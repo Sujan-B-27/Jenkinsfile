@@ -6,7 +6,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 git branch: 'main',
-                url: 'https://github.com/yourusername/HelloMaven.git'
+                url: 'https://github.com/Sujan-B-27/Jenkinsfile.git'
             }
         }
 
